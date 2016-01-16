@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Local" uploadOnCheckin="7b454d5d-2fb0-4f8a-b858-b0163d72e00c">
+    <serverData>
+      <paths name="Alter">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ebay/" local="$PROJECT_DIR$" web="/ebay/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Local">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\ebay\" local="$PROJECT_DIR$" web="/ebay/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Local" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

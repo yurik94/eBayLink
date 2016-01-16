@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="358aa38d-9e86-4762-a6b3-a32f6ad9748a" name="Alter" url="http://yurik94.altervista.org">
+        <fileTransfer host="ftp.yurik94.altervista.org" port="21" password="df93dff9dfd3dfc4dfc9dfc6dfc5dfc9dfc1df9e" username="yurik94">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7b454d5d-2fb0-4f8a-b858-b0163d72e00c" name="Local" url="http://localhost">
+        <fileTransfer mountedRoot="E:\W10\Programmi\wamp\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
