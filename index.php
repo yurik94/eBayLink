@@ -16,7 +16,7 @@ $siteID = 101;
 $verb = 'GetSellerList'; //API call name
 $StartTimeFrom = '2015-12-00T13:00:00.000Z';
 $StartTimeTo = '2016-01-16T10:00:00.000Z';
-$EntriesPerPage = '5';
+$EntriesPerPage = '5';;
 
 $headers = array(
     'charset=UTF-8',
